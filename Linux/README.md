@@ -1,5 +1,3 @@
-# DevOps Assignment — Commands
-
 ## 2. Create a Linux user `PS` with primary group `PSgroup` and secondary group `dba`
 
 ```bash
